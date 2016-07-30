@@ -10,13 +10,11 @@ User Experience Flow
 Tools
 ---
 * JavaScript
- * I'm thinking bootstrap will be the only library we need. Just to make the buttons and drop down menus look good.
- * Other than that, just plain JS should be able to do the job fine. 
- * Oh and jQuery because it's basically mandatory
+ * Bootstrap
+ * jQuery
 * HTML
  * Just straight HTML should be fine here
-* CSS
- * We can probably use LESS or SASS for this
+* CSS/SASS
 * [Device rotation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
 * [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
