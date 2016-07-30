@@ -23,9 +23,10 @@ Tools
 TODO
 ---
 1. Use strikethrough to mark things off as done. Go down list in this order.
-* Create HTML file
-* Create CSS file
-* Create JS file
+* ~~Create HTML file~~
+* ~~Create CSS file~~
+* ~~Create JS file~~
+* HTML scaffolding
 * Image upload feature
 * CSS filters feature
 * Drop down menu for CSS filters
