@@ -24,7 +24,7 @@ TODO
 * ~~Create HTML file~~
 * ~~Create CSS file~~
 * ~~Create JS file~~
-* HTML scaffolding
+* ~~HTML scaffolding~~
 * Image upload feature
 * CSS filters feature
 * Drop down menu for CSS filters
