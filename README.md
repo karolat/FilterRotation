@@ -18,7 +18,9 @@ Tools
 * CSS
  * We can probably use LESS or SASS for this
 * [Device rotation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-* [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+* [CSS Filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+* Git
+ * We are using a workflow called [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 TODO
 ---
