@@ -14,7 +14,7 @@ Tools
  * jQuery
 * HTML
  * Just straight HTML should be fine here
-* CSS/SASS
+* CSS / LESS
 * [Device rotation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
 * [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
