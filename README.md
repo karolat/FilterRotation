@@ -35,4 +35,8 @@ TODO
 * Figure out license to use
 * Where to publish this?
 
+Ideas
+---
+* use web speech api to communicate with user
+
 ![Original sketch](http://i.imgur.com/p8VShCI.jpg)
