@@ -4,7 +4,7 @@ User Experience Flow
 ---
 1. User loads the website and is presented with a button to upload an image. The user selects a single image to upload and the image is then uploaded and placed into the center of the page.
 * The user can then select different CSS filters to apply to the image using a drop down menu presented at the bottom or top of the image. A default filter should be selected in case the user does not see this step and so the user can immediately experience the rotation effect.
-* Once the image is uploaded, the user will be able to rotate their device and apply the filter. The device rotation should directly affect how much of the filter is being applied. The image will be stablized so as to appear at the initial orientation at all times.
+* Once the image is uploaded, the user will be able to rotate their device and apply the filter. The device rotation should directly affect how much of the filter is being applied.
 * The user will be able to tap the screen and save the image.
 
 Tools
@@ -29,7 +29,6 @@ TODO
 * CSS filters feature
 * Drop down menu for CSS filters
 * Link device orientation to CSS filter property
-* Image stabilization feature
 * Tap to save image feature
 * Test on all browsers and devices
 * Figure out license to use
