@@ -1,0 +1,25 @@
+{
+  "name": "filter-rotation",
+  "version": "1.0.0",
+  "description": "User Experience Flow\r ---\r 1. User loads the website and is presented with a button to upload an image. The user selects a single image to upload and the image is then uploaded and placed into the center of the page.\r * The user can then select different CSS filters to apply to the image using a drop down menu presented at the bottom or top of the image. A default filter should be selected in case the user does not see this step and so the user can immediately experience the rotation effect.\r * Once the image is uploaded, the user will be able to rotate their device and apply the filter. The device rotation should directly affect how much of the filter is being applied.\r * The user will be able to tap the screen and save the image.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jQuery": "^1.7.4",
+    "less": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustin-Walker/FilterRotation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dustin-Walker/FilterRotation/issues"
+  },
+  "homepage": "https://github.com/Dustin-Walker/FilterRotation#readme"
+}
