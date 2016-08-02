@@ -12,8 +12,7 @@ Tools
 * JavaScript
  * Bootstrap
  * jQuery
-* HTML
- * Just straight HTML should be fine here
+* HTML5
 * CSS / LESS
 * [Device rotation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
 * [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
@@ -25,7 +24,7 @@ TODO
 * ~~Create CSS file~~
 * ~~Create JS file~~
 * ~~HTML scaffolding~~
-* Image upload feature
+* ~~Image upload feature~~
 * CSS filters feature
 * Drop down menu for CSS filters
 * Link device orientation to CSS filter property
