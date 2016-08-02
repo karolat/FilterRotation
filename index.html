@@ -19,7 +19,7 @@
 
 	<main class="center-block text-center container">
 		<header>
-			<h1>
+			<h1 class="title">
 				FilterRotation Toy
 			</h1>
 		</header>
@@ -28,17 +28,15 @@
 			<p>
 				<!--TODO Add instruction text-->
 			</p>
-			<button class="btn btn-primary btn-lg">
-				Select Image
-			</button>
+			<input type="file" accept="image/*" name="image-uploader" class="image-uploader btn btn-primary btn-lg">
 		</section>
 
 		<section class="full-screen-image-section"><!-- Full screen image, filter, and drop down menu section -->
-
+			<img src="#" alt="" class="main-image">
 		</section>
 
 	</main>
-
-<script src="main.JS"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="main.js" type="application/javascript"></script>
 </body>
 </html>
