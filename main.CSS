@@ -6723,9 +6723,29 @@ button.close {
 }
 .filter-rotation-body {
   background-color: #eeeeee;
+  margin: 0;
 }
 .vertical-center {
   min-height: 100vh;
   display: flex;
   align-items: center;
+}
+.main-image {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  height: 100vh;
+  width: 100vw;
+}
+.title {
+  position: absolute;
+  top: 30vh;
+  z-index: 1;
+  left: 30vw;
+}
+.image-uploader {
+  z-index: 1;
+  margin: 10vh auto 0 auto;
 }
